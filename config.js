@@ -2,25 +2,30 @@ let fs = require('fs')
 let chalk = require('chalk')
 
 global.owner = [
-  ['6285716944311'],
-  ['6285850539404'],
-  ['6285716944311', 'Owner', true]
+  ['6282252285143'],
+  ['6282350496532'],
+  ['6282252285143', 'Owner [𝑅𝑦𝑎𝑛𝑛]', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.fotonya1 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini kalo mau di ganti silahkan ganti aja
-global.fotonya2 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //gw lupa nih foto apa aja:v
-global.fotonya3 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini juga ganti
-global.fotonya6 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini ganti pakai foto sosialmedia mu
-global.fotonya7 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg'
-global.instagram = 'https://instagram.com/Jarotr_'
-global.dana = '085850539404'
-global.saweria = 'https://saweria.co/jarotoffc'
-global.pulsa = '085850539404'
-global.yt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+global.fotonya1 = 'https://telegra.ph/file/ba714f910924968498e37.jpg' //ini kalo mau di ganti silahkan ganti aja
+global.fotonya2 = 'https://telegra.ph/file/6e3308f9db25bf7ab2b58.jpg' //gw lupa nih foto apa aja:v
+global.fotonya3 = 'https://telegra.ph/file/6e3308f9db25bf7ab2b58.jpg' //ini juga ganti
+global.fotonya4 = 'https://telegra.ph/file/ba714f910924968498e37.jpg' //ini juga ganti
+global.fotonya5 = 'https://telegra.ph/file/1ea8e058b844a001f9f42.jpg' //ini juga ganti
+global.fotonya6 = 'https://telegra.ph/file/6197d51ca38635ac0fbeb.jpg' //ini ganti pakai foto sosialmedia mu
+global.fotonya7 = 'https://telegra.ph/file/6197d51ca38635ac0fbeb.jpg]'
+global.instagram = 'https://instagram.com/yannxdimm'
+global.dana = '082350496532'
+global.saweria = 'https://saweria.co/jbyannstore'
+global.pulsa = '082252285143'
+global.yt = 'https://youtube.com/channel/'
 global.mods = [] // Want some help?
-global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERBULAN Rp 15.000\nMAKSIMAL 2 GRUP\n》2 BULAN 25.000\nMAKSIMAL 3 GRUP \n》3 BULAN Rp 40.000\nMAKSIMAL 2 GRUP'
+global.price1 = '1 𝘔𝘪𝘯𝘨𝘨𝘶 : 2𝘬
+1 𝘉𝘶𝘭𝘢𝘯 : 5𝘬
+2 𝘉𝘶𝘭𝘢𝘯 : 7𝘬
+3 𝘉𝘶𝘭𝘢𝘯 : 10𝘬
+
+𝘕𝘰𝘵𝘦 : 𝘒𝘢𝘭𝘢𝘶 𝘗𝘦𝘳𝘮𝘢𝘯𝘦𝘯𝘵 𝘉𝘦𝘭𝘶𝘮 𝘉𝘪𝘴𝘢, 𝘚𝘰𝘢𝘭𝘯𝘺𝘢 𝘒𝘢𝘭𝘢𝘶 𝘉𝘰𝘵 𝘈𝘥𝘢 𝘒𝘦𝘯𝘥𝘢𝘭𝘢 𝘉𝘪𝘴𝘢 𝘈𝘫𝘢 𝘖𝘧𝘧 !'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -72,9 +77,9 @@ fs.watchFile(file_exif, () => {
 // Sticker WM
 global.packname = sticker_name
 global.author = sticker_author
-global.wm = '©𝐎𝐒𝐂𝐀𝐑-𝐌𝐝'
+global.wm = '𝘠𝘢𝘯𝘯 𝘉𝘰𝘵𝘻 𝘔𝘋'
 
-global.anu = 'https://telegra.ph/file/054b6fe59958df5ad6b1f.jpg'
+global.anu = 'https://telegra.ph/file/ba714f910924968498e37.jpg'
 
 global.multiplier = 1000 // The higher, The harder levelup
 
