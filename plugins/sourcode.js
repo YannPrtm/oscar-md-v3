@@ -2,14 +2,12 @@
 // Jika ada yang Jual sc langsung Di hapus!!
 
 let fetch = require('node-fetch')
-let handler = async (m, { conn }) => conn.sendButtonLoc(m.chat, 'https://telegra.ph/file/239f046a928370340401f.jpg',
+let handler = async (m, { conn }) => conn.sendButtonLoc(m.chat, 'https://telegra.ph/file/ba714f910924968498e37.jpg',
 `Hi Kak @${m.sender.split('@')[0]} 
 
 ◪ 📮 *SCRIPT BOT*
 │ *Script :* 
 │ ╰ https://youtu.be/FHntJPk2PkU
-│ *Mampir Youtube Owner Banh:* 
-│ ╰ https://tinyurl.com/2qsejxnw
 ╰──────────═┅═──────────
 `,`📍 *N o t e :* 
 • Jangan lupa mampir Youtube Owner Kak!

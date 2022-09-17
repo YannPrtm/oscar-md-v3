@@ -36,21 +36,20 @@ let tags = {
 const defaultMenu = {
   before: `
 ┏─────────────────⬣
-┆ 𝑯𝒂𝒊, %ucapan %name!👋
+┆ 𝘏𝘢𝘪, %ucapan %name!👋
 ┗┬──────────────┈ ⳹
 ┏┆⬡ *Limit:* : %limit
 ┆┆⬡ *Level:* : %level
 ┆┆⬡ *XP:* : %exp
 ┗┬──────────────┈ ⳹
-┏┤   *𝐊𝐚𝐥𝐞𝐧𝐝𝐞𝐫*
-┆┗──────────────┈ ⳹
+┏┤   *ᴋᴀʟᴇɴᴅᴇʀ*┗──────────────┈ ⳹
 ┆⬡ *Hari:* : %week
 ┆⬡ *Tanggal:* : %date
 ┆⬡ *Waktu Wib* : %wib 
 ┆⬡ *Waktu Wita* : %wita 
 ┆⬡ *Waktu Wit* : %wit 
 ┗┬──────────────┈ ⳹
-┏┤ *𝐁𝐨𝐭 𝐈𝐧𝐟𝐨*
+┏┤ *ɪɴғᴏ ʙᴏᴛ*
 ┆┗──────────────┈ ⳹
 ┆⬡ *Limit* : Ⓛ 
 ┆⬡ *Premium* : Ⓟ
@@ -179,31 +178,31 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                         hydratedTemplate: {
                             imageMessage: message.imageMessage,
                             hydratedContentText: text.trim(),
-                            hydratedFooterText:'                『 𝑱𝑨𝑹𝑶𝑻 𝑶𝑭𝑭𝑪 』',
+                            hydratedFooterText:'                『 Yαɳɳ MD 』',
                             hydratedButtons: [{
                               urlButton: {
-                                    displayText: '𝙂𝙧𝙤𝙪𝙥 🌏',
-                                    url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+                                    displayText: 'Gɾσυρ σϝƈ 🌏',
+                                    url: 'https://chat.whatsapp.com/Bj6feBDxWtPDOkM0tYkqFG'
                                 }
                                 
                             }, {
                               urlButton: {
-                                    displayText: '𝙔𝙤𝙪𝙏𝙪𝙗𝙚 📺',
-                                    url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+                                    displayText: 'ᴄʜᴀᴛ ᴏᴡɴᴇʀ',
+                                    url: 'https://wa.me/6282252285143'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '𝘿𝙤𝙣𝙖𝙨𝙞 🔄',
+                                    displayText: 'ᴅᴏɴᴀᴛᴇ 🔄',
                                     id: '/donasi'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '𝙎𝙚𝙬𝙖 🏧',
+                                    displayText: 'sᴇᴡᴀ 🏧',
                                     id: '/sewa'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: '𝙊𝙬𝙣𝙚𝙧 🌟',
+                                    displayText: 'ᴅᴇᴠᴇʟᴏᴘᴇʀ 🌟',
                                     id: '/owner'
                                 }
                             }]

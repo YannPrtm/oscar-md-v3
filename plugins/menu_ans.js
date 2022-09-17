@@ -1,6 +1,6 @@
 const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, downloadContentFromMessage, downloadHistory, proto, getMessage, generateWAMessageContent, prepareWAMessageMedia } = require('@adiwajshing/baileys')
 let fs = require('fs')
-let owner = 6285850539404
+let owner = 6282252285143
 let wa = '0'
 let handler = async (m) => {
 let jarot = `
@@ -12,38 +12,38 @@ let jarot = `
             hydratedTemplate: {
                 hydratedContentText: jarot,
                 imageMessage: message.imageMessage, 
-           hydratedFooterText: '📮Note : HALO KAK SAYA OSCARBOTZ, JIKA KAMU MENGGUNAKAN WA LAMA ATAU WA MOD, DAN BUTTON TIDAK KELIATAN, LANGSUNG AJA KETIK .allmenu',
+           hydratedFooterText: '📮Note : HALO  SAYA 𝘠𝘢𝘯𝘯𝘉𝘰𝘵-𝘔𝘋, JIKA KAMU MENGGUNAKAN WA LAMA ATAU WA MOD, DAN BUTTON TIDAK KELIATAN, LANGSUNG AJA KETIK .allmenu',
            hydratedButtons: [{
              urlButton: {
-               displayText: '🔮𝙂𝙧𝙤𝙪𝙥𝘽𝙤𝙩🔮',
-               url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+               displayText: '𝘎𝘙𝘖𝘜𝘗 𝘉𝘖𝘛',
+               url: 'https://chat.whatsapp.com/Bj6feBDxWtPDOkM0tYkqFG'
              }
 
            },
                 {
                urlButton: {
-               displayText: '🐻𝙔𝙤𝙪𝙩𝙪𝙗𝙚 𝘾𝙧𝙚𝙖𝙩𝙤𝙧🐻',
-               url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+               displayText: '𝘞𝘏𝘈𝘛𝘚𝘈𝘗𝘗 𝘋𝘌𝘝',
+               url: 'https://wa.me/6282252281543'
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '𝙎𝙚𝙬𝙖🚀',
+               displayText: '𝘚𝘦𝘸𝘢 𝘉𝘰𝘵 🚀',
                id: '.sewabot',
              }
              
            },
                {
              quickReplyButton: {
-               displayText: '𝙎𝙘𝙧𝙞𝙥𝙩🎗️',
+               displayText: '𝘚𝘤𝘳𝘪𝘱𝘵 🎗️',
                id: '.sc',
              }
              
              },
                {
              quickReplyButton: {
-               displayText: '𝙇𝙞𝙨𝙩 𝘾𝙤𝙢𝙢𝙖𝙣𝙙📖',
+               displayText: '𝘓𝘪𝘴𝘵 𝘊𝘰𝘮𝘮𝘢𝘯𝘥📖',
                id: '.allmenu',
              }
 

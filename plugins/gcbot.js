@@ -1,20 +1,13 @@
 let fetch = require('node-fetch')
 let teks = 'gcbot'
-let handler = async (m, { conn }) => conn.send2ButtonLoc(m.chat, await (await fetch('https://telegra.ph/file/c6d47e0aa9dca2263bee9.png'+ teks)).buffer(), `
+let handler = async (m, { conn }) => conn.send2ButtonLoc(m.chat, await (await fetch('https://telegra.ph/file/6e3308f9db25bf7ab2b58.jpg'+ teks)).buffer(), `
 
 *𝐇𝐚𝐥𝐨 𝐁𝐚𝐧𝐡 𝐉𝐚𝐧𝐠𝐚𝐧 𝐋𝐮𝐩𝐚 𝐉𝐨𝐢𝐧 && 𝐁𝐚𝐜𝐚 𝐑𝐮𝐥𝐞𝐬❗*
 ╔═══════════════════
 ║ _*Group All*_  𝐉𝐚𝐫𝐨𝐭 ×͜×
 ╠═══════════════════
 ║➸ 𝐆𝐫𝐨𝐮𝐩 𝐁𝐨𝐭 1
-║ https://tinyurl.com/2nchxnpa
-║➸ 𝐆𝐫𝐨𝐮𝐩 𝐁𝐨𝐭 2
-║ https://tinyurl.com/2gptyhqs
-╚════════════════════
-╔════════════════════
-║ *Group Random*
-╠════════════════════
-║https://tinyurl.com/2h6gch82
+║ https://chat.whatsapp.com/Bj6feBDxWtPDOkM0tYkqFG
 ╚════════════════════
 ╔════════════════════
 ║ *RULES GROUP BOT*

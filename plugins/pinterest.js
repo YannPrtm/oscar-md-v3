@@ -31,7 +31,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
        .then(b => conn.sendFile(m.chat,b,b,"*PINTEREST*\n\npencarian dari: " + text, m)
     )}
     
-handler.help = ['pinterest <text>']
+handler.help = ['pin <text>']
 handler.tags = ['internet']
 handler.command = /^(pinterest)$/i
 handler.premium = true
