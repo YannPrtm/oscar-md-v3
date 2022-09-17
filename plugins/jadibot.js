@@ -15,9 +15,9 @@ let anu = `Hallo mypren 👋
 ⬡ *Tutorial Jadibot:* 50.000
 ┗━━━━━━━━━━━━━━━━━━ꕥ
 ┏━━━〔 ıll *PAYMENT* llı 〕━━ꕥ
-⬡ *DANA:* ${6285850539404}
-⬡ *GOPAY:* ${6285850539404}
-⬡ *Youtube:* ${'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'}
+⬡ *DANA:* ${6282252285143}
+⬡ *GOPAY:* ${6282252285143}
+⬡ *Youtube:* ${'-'}
 ┗━━━━━━━━━━━━━━━━━━ꕥ
 ┏━━〔 ıll *RULES* llı 〕━ꕥ
 ⬡ [❗] *Dana yang sudah masuk tidak bisa di kembalikan*
@@ -28,7 +28,7 @@ Jika anda berminat hubungi nomor di bawah!!
 Terimakasih yang sudah mendonasikan untuk bot
 
 Contact person jasa run:
-wa.me/${'6281376349712'} (Owner)
+wa.me/${'6282252285143'} (Owner)
 
 *Follow Instagram ku juga kak😼*`
   conn.send2ButtonImg(m.chat, fla + teks, anu, instagram, 'Donasi', '.donasi', 'SewaBot', '.sewaoscar', m) 
