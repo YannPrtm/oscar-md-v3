@@ -20,12 +20,7 @@ global.saweria = 'https://saweria.co/jbyannstore'
 global.pulsa = '082252285143'
 global.yt = 'https://youtube.com/channel/'
 global.mods = [] // Want some help?
-global.price1 = '1 𝘔𝘪𝘯𝘨𝘨𝘶 : 2𝘬
-1 𝘉𝘶𝘭𝘢𝘯 : 5𝘬
-2 𝘉𝘶𝘭𝘢𝘯 : 7𝘬
-3 𝘉𝘶𝘭𝘢𝘯 : 10𝘬
-
-𝘕𝘰𝘵𝘦 : 𝘒𝘢𝘭𝘢𝘶 𝘗𝘦𝘳𝘮𝘢𝘯𝘦𝘯𝘵 𝘉𝘦𝘭𝘶𝘮 𝘉𝘪𝘴𝘢, 𝘚𝘰𝘢𝘭𝘯𝘺𝘢 𝘒𝘢𝘭𝘢𝘶 𝘉𝘰𝘵 𝘈𝘥𝘢 𝘒𝘦𝘯𝘥𝘢𝘭𝘢 𝘉𝘪𝘴𝘢 𝘈𝘫𝘢 𝘖𝘧𝘧 !'
+global.price1 = '1 𝘔𝘪𝘯𝘨𝘨𝘶 : 2𝘬\n1 𝘉𝘶𝘭𝘢𝘯 : 5𝘬\n2 𝘉𝘶𝘭𝘢𝘯 : 7𝘬\n3 𝘉𝘶𝘭𝘢𝘯 : 10𝘬'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
